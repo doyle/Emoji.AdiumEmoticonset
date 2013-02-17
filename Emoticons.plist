@@ -67,8 +67,6 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:smirk:</string>
-				<string>:)</string>
-				<string>=)</string>
 			</array>
 			<key>Name</key>
 			<string>smirk</string>
@@ -171,6 +169,8 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:grinning:</string>
+				<string>:)</string>
+				<string>=)</string>
 			</array>
 			<key>Name</key>
 			<string>grinning</string>
