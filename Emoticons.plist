@@ -47,6 +47,8 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:smiley:</string>
+				<string>:D</string>
+				<string>=D</string>
 			</array>
 			<key>Name</key>
 			<string>smiley</string>
@@ -65,6 +67,8 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:smirk:</string>
+				<string>:)</string>
+				<string>=)</string>
 			</array>
 			<key>Name</key>
 			<string>smirk</string>
@@ -83,6 +87,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:kissing_heart:</string>
+				<string>:-*</string>
 			</array>
 			<key>Name</key>
 			<string>kissing_heart</string>
@@ -137,6 +142,8 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:wink:</string>
+				<string>;-)</string>
+				<string>;)</string>
 			</array>
 			<key>Name</key>
 			<string>wink</string>
@@ -191,6 +198,9 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:stuck_out_tongue:</string>
+				<string>:-P</string>
+				<string>:P</string>
+				<string>=P</string>
 			</array>
 			<key>Name</key>
 			<string>stuck_out_tongue</string>
@@ -200,6 +210,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:sleeping:</string>
+				<string>|-)</string>
 			</array>
 			<key>Name</key>
 			<string>sleeping</string>
@@ -218,6 +229,8 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:frowning:</string>
+				<string>:(</string>
+				<string>=(</string>
 			</array>
 			<key>Name</key>
 			<string>frowning</string>
@@ -236,6 +249,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:open_mouth:</string>
+				<string>:-O</string>
 			</array>
 			<key>Name</key>
 			<string>open_mouth</string>
@@ -254,6 +268,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:confused:</string>
+				<string>:/</string>
 			</array>
 			<key>Name</key>
 			<string>confused</string>
@@ -263,6 +278,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:hushed:</string>
+				<string>:-x</string>
 			</array>
 			<key>Name</key>
 			<string>hushed</string>
@@ -335,6 +351,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:disappointed:</string>
+				<string>:|</string>
 			</array>
 			<key>Name</key>
 			<string>disappointed</string>
@@ -344,6 +361,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:confounded:</string>
+				<string>:-S</string>
 			</array>
 			<key>Name</key>
 			<string>confounded</string>
@@ -380,6 +398,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:cry:</string>
+				<string>:'(</string>
 			</array>
 			<key>Name</key>
 			<string>cry</string>
@@ -443,6 +462,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:angry:</string>
+				<string>:-@</string>
 			</array>
 			<key>Name</key>
 			<string>angry</string>
@@ -497,6 +517,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:sunglasses:</string>
+				<string>8-)</string>
 			</array>
 			<key>Name</key>
 			<string>sunglasses</string>
@@ -506,6 +527,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:dizzy_face:</string>
+				<string>+o(</string>
 			</array>
 			<key>Name</key>
 			<string>dizzy_face</string>
@@ -551,6 +573,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:innocent:</string>
+				<string>(A)</string>
 			</array>
 			<key>Name</key>
 			<string>innocent</string>
@@ -596,6 +619,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:heart:</string>
+				<string>&lt;3</string>
 			</array>
 			<key>Name</key>
 			<string>heart</string>
@@ -686,6 +710,7 @@
 			<key>Equivalents</key>
 			<array>
 				<string>:star:</string>
+				<string>(*)</string>
 			</array>
 			<key>Name</key>
 			<string>star</string>
